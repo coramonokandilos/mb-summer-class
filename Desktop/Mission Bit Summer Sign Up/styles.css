@@ -1,5 +1,8 @@
-body{
-  background-color:black;
+html{
+  height: 100%;
+  width: 100%;
+  background-image: url("squares-triangles-patterns-1366x768.jpg");
+  background-size: 100% 100%;
 }
 
 /*PLACEMENT OF THE TITLE OF THE FORM*/
@@ -9,14 +12,14 @@ body{
 
 #questions {
   margin: 20px auto;
-  width: 70%;
+  width: 60%;
   height: 100%;
   background-color: white;
 }
 
 /*FORM STYLES, CANT GO TOGETHER WITH THE TOP ONE*/
 .ss-form-title {
-  font-family: "Roboto";
+  font-family: 'Syncopate';
   color: rgb(80,80,80);
   font-weight: 400;
   font-size: 2.460rem;
